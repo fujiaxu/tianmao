@@ -407,7 +407,7 @@ h6{
 }
 aside{
 	width: 35px;
-	height: 663px;
+	height: 100vh;
 	background: #000000;
 	position: fixed;
 	right: 0px;
